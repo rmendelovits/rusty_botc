@@ -1,0 +1,143 @@
+ID,Full Name,Type,Script
+ACB,Acrobat,Outsider,Experimental
+ADK,Al-Hadikhia,Demon,Experimental
+ALC,Alchemist,Townsfolk,Experimental
+AMN,Amnesiac,Townsfolk,Experimental
+AGL,Angel,Fabled,All
+APP,Apprentice,Traveller,Bad Moon Rising
+ART,Artist,Townsfolk,Sects & Violets
+ASN,Assassin,Minion,Bad Moon Rising
+ATH,Atheist,Townsfolk,Experimental
+BLN,Balloonist,Townsfolk,Experimental
+BRB,Barber,Outsider,Sects & Violets
+BAR,Barista,Traveller,Sects & Violets
+BRN,Baron,Minion,Trouble Brewing
+BEG,Beggar,Traveller,Trouble Brewing
+BSP,Bishop,Traveller,Bad Moon Rising
+BCR,Bone Collector,Traveller,Sects & Violets
+BDY,Boomdandy,Minion,Experimental
+BHR,Bounty Hunter,Townsfolk,Experimental
+BDT,Buddhist,Fabled,All
+BCT,Bureaucrat,Traveller,Trouble Brewing
+BTC,Butcher,Traveller,Sects & Violets
+BTL,Butler,Outsider,Trouble Brewing
+CNB,Cannibal,Townsfolk,Experimental
+CRN,Cerenovus,Minion,Sects & Violets
+CHM,Chambermaid,Townsfolk,Bad Moon Rising
+CHF,Chef,Townsfolk,Trouble Brewing
+CHB,Choirboy,Townsfolk,Experimental
+CLM,Clockmaker,Townsfolk,Sects & Violets
+CRT,Courtier,Townsfolk,Bad Moon Rising
+CLR,Cult Leader,Townsfolk,Experimental
+DML,Damsel,Outsider,Experimental
+DXF,Deus ex Fiasco,Fabled,All
+DVT,Deviant,Traveller,Sects & Violets
+DVA,Devils Advocate,Minion,Bad Moon Rising
+DJN,Djinn,Fabled,All
+DSR,Doomsayer,Fabled,All
+DRM,Dreamer,Townsfolk,Sects & Violets
+DRK,Drunk,Outsider,Trouble Brewing
+DCH,Duchess,Fabled,All
+EMP,Empath,Townsfolk,Trouble Brewing
+ENG,Engineer,Townsfolk,Experimental
+ETW,Evil Twin,Minion,Sects & Violets
+XRC,Exorcist,Townsfolk,Bad Moon Rising
+FGU,Fang Gu,Demon,Sects & Violets
+FRM,Farmer,Townsfolk,Experimental
+FMG,Fearmonger,Minion,Experimental
+FIB,Fibbin,Fabled,All
+FDL,Fiddler,Fabled,All
+FSH,Fisherman,Townsfolk,Experimental
+FGL,Flowergirl,Townsfolk,Sects & Violets
+FOL,Fool,Townsfolk,Bad Moon Rising
+FTR,Fortune Teller,Townsfolk,Trouble Brewing
+GMB,Gambler,Townsfolk,Bad Moon Rising
+GNR,General,Townsfolk,Experimental
+GBL,Goblin,Minion,Experimental
+GDF,Godfather,Minion,Bad Moon Rising
+GLM,Golem,Outsider,Experimental
+GON,Goon,Outsider,Bad Moon Rising
+GSP,Gossip,Townsfolk,Bad Moon Rising
+GMR,Grandmother,Townsfolk,Bad Moon Rising
+GSR,Gunslinger,Traveller,Trouble Brewing
+HRT,Harlot,Traveller,Sects & Violets
+HLN,Hell's Librarian,Fabled,All
+HTC,Heretic,Outsider,Experimental
+HTM,Huntsman,Townsfolk,Experimental
+IMP,Imp,Demon,Trouble Brewing
+INK,Innkeeper,Townsfolk,Bad Moon Rising
+INV,Investigator,Townsfolk,Trouble Brewing
+JDG,Judge,Traveller,Bad Moon Rising
+JGL,Juggler,Townsfolk,Sects & Violets
+KNG,King,Townsfolk,Experimental
+KTZ,Klutz,Outsider,Sects & Violets
+LGN,Legion,Demon,Experimental
+LEV,Leviathan,Demon,Experimental
+LIB,Librarian,Townsfolk,Trouble Brewing
+LIL,Lil Monsta,Demon,Experimental
+LLE,Lleech,Demon,Experimental
+LNT,Lunatic,Outsider,Bad Moon Rising
+LYC,Lycanthrope,Townsfolk,Experimental
+MAG,Magician,Townsfolk,Experimental
+MRO,Marionette,Minion,Experimental
+MMD,Mastermind,Minion,Bad Moon Rising
+MTH,Mathematician,Townsfolk,Sects & Violets
+MTN,Matron,Traveller,Bad Moon Rising
+MYR,Mayor,Townsfolk,Trouble Brewing
+MEZ,Mezepheles,Minion,Experimental
+MIN,Minstrel,Townsfolk,Bad Moon Rising
+MON,Monk,Townsfolk,Trouble Brewing
+MNC,Moonchild,Outsider,Bad Moon Rising
+MUT,Mutant,Outsider,Sects & Violets
+NWM,Nightwatchman,Townsfolk,Experimental
+NOD,No Dashii,Demon,Sects & Violets
+NBL,Noble,Townsfolk,Experimental
+ORA,Oracle,Townsfolk,Sects & Violets
+PAC,Pacifist,Townsfolk,Bad Moon Rising
+PHL,Philosopher,Townsfolk,Sects & Violets
+PHG,Pit-Hag,Minion,Sects & Violets
+PIX,Pixie,Townsfolk,Experimental
+POX,Po,Demon,Bad Moon Rising
+PSN,Poisoner,Minion,Trouble Brewing
+POL,Politician,Outsider,Experimental
+PGW,Poppy Grower,Townsfolk,Experimental
+PRE,Preacher,Townsfolk,Experimental
+PRF,Professor,Townsfolk,Bad Moon Rising
+PSY,Psychopath,Minion,Experimental
+PKK,Pukka,Demon,Bad Moon Rising
+PZM,Puzzlemaster,Outsider,Experimental
+RKR,Ravenkeeper,Townsfolk,Trouble Brewing
+RCL,Recluse,Outsider,Trouble Brewing
+RVL,Revolutionary,Fabled,All
+RIO,Riot,Demon,Experimental
+SAG,Sage,Townsfolk,Sects & Violets
+SLR,Sailor,Townsfolk,Bad Moon Rising
+SNT,Saint,Outsider,Trouble Brewing
+SVT,Savant,Townsfolk,Sects & Violets
+SGT,Scapegoat,Traveller,Trouble Brewing
+SWN,Scarlet Woman,Minion,Trouble Brewing
+SMS,Seamstress,Townsfolk,Sects & Violets
+SEN,Sentinel,Fabled,All
+SHB,Shabaloth,Demon,Bad Moon Rising
+SLY,Slayer,Townsfolk,Trouble Brewing
+SCH,Snake Charmer,Townsfolk,Sects & Violets
+SNC,Snitch,Outsider,Experimental
+SOL,Soldier,Townsfolk,Trouble Brewing
+SOI,Spirit of Ivory,Fabled,All
+SPY,Spy,Minion,Trouble Brewing
+SMC,Storm Catcher,Fabled,All
+SWH,Sweetheart,Outsider,Sects & Violets
+TLY,Tea Lady,Townsfolk,Bad Moon Rising
+THF,Thief,Traveller,Trouble Brewing
+TNK,Tinker,Outsider,Bad Moon Rising
+TCR,Town Crier,Townsfolk,Sects & Violets
+TMR,Toymaker,Fabled,All
+UTR,Undertaker,Townsfolk,Trouble Brewing
+VGM,Vigormortis,Demon,Sects & Violets
+VIR,Virgin,Townsfolk,Trouble Brewing
+VTX,Vortox,Demon,Sects & Violets
+VDN,Voudon,Traveller,Bad Moon Rising
+WWM,Washerwoman,Townsfolk,Trouble Brewing
+WDW,Widow,Minion,Experimental
+WTC,Witch,Minion,Sects & Violets
+ZMB,Zombuul,Demon,Bad Moon Rising

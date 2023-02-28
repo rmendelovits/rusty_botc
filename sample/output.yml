@@ -1,0 +1,15 @@
+%YAML 1.2
+--
+Version: 1.0.0
+Script: tb
+
+Setup:
+  Players:
+    1 - librarian [drunk = Drunk]
+    2 - virgin [librarian = Wrong]
+    3 - spy
+    4 - ravenkeeper
+    5 - saint
+    6 - imp
+    7 - undertaker [librarian = Wrong]
+    8 - mayor

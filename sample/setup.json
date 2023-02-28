@@ -1,0 +1,110 @@
+{
+    "bluffs": [
+        "fortuneteller",
+        "monk",
+        "recluse"
+    ],
+    "edition": {
+        "id": "tb"
+    },
+    "roles": "",
+    "fabled": [],
+    "players": [
+        {
+            "name": "Issac",
+            "id": "",
+            "role": "empath",
+            "reminders": [],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Laurie",
+            "id": "",
+            "role": "librarian",
+            "reminders": [
+                {
+                    "role": "drunk",
+                    "name": "Drunk"
+                }
+            ],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Oli",
+            "id": "",
+            "role": "virgin",
+            "reminders": [
+                {
+                    "role": "librarian",
+                    "name": "Wrong"
+                }
+            ],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Adam",
+            "id": "",
+            "role": "spy",
+            "reminders": [],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Isa",
+            "id": "",
+            "role": "ravenkeeper",
+            "reminders": [],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Luke",
+            "id": "",
+            "role": "saint",
+            "reminders": [],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Jon",
+            "id": "",
+            "role": "imp",
+            "reminders": [],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Blair",
+            "id": "",
+            "role": "undertaker",
+            "reminders": [
+                {
+                    "role": "librarian",
+                    "name": "Wrong"
+                }
+            ],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        },
+        {
+            "name": "Sully",
+            "id": "",
+            "role": "mayor",
+            "reminders": [],
+            "isVoteless": false,
+            "isDead": false,
+            "pronouns": ""
+        }
+    ]
+}
